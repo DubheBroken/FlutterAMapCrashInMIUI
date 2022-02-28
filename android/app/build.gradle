@@ -54,6 +54,22 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
+
+    signingConfigs {
+        debug {
+            keyAlias 'key0'
+            keyPassword 'demo1234'
+            storeFile file('../demo.jks')
+            storePassword 'demo1234'
+        }
+        release {
+            keyAlias 'key0'
+            keyPassword 'demo1234'
+            storeFile file('../demo.jks')
+            storePassword 'demo1234'
+        }
+    }
+
 }
 
 flutter {
