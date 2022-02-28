@@ -36,3 +36,7 @@
 Android Studio 2020.3.1  
 Flutter 2.10.0 Stable  
 Dart 2.16.0
+
+# 参考资料
+[高德地图Flutter插件集成文档](https://lbs.amap.com/api/flutter/guide/map-flutter-plug-in/map-flutter-info)  
+[Flutter环境配置指南-Flutter中文网](https://flutterchina.club/get-started/install/)
