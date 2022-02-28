@@ -22,6 +22,7 @@
 | 小米mix4 |	odin |	MIUI 13 开发版 V13.0.4.1.7.DEV |	Android 12 |
 | 小米9 |	cepheus |	MIUI 12.5 |	Android 11 |
 | 小米10 Ultra |	cas |	MIUI 12.5 |	Android 11 |
+| 小米平板5 Pro | elish | MIUI 13.0.4 | Andorid 11 |
 
 已知的不会产生此问题的设备和系统：
 | 设备名	| 代号 |	系统版本 |	安卓版本 |
